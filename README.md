@@ -13,12 +13,12 @@ Adapun untuk fungsi program yang dapat dijalankan oleh tiap - tiap role akun ada
 - **Admin** dan **Customer** dapat melihat riwayat pemesanan terhadap produk sosis dan nugget
 
 ## Anggota Kelompok 1
-| NIM                 | NAMA                  |
-|---------------------|-----------------------|
-| 2109106034          | [Muhammad Naufal Ihsan Maulidin](https://github.com/nafxyy)      |
-| 2109106035          | [Ardi Setyiawan](https://github.com/ArdiSetiw)      |
-| 2109106046          | [Mohammad Heidar Sadhana](https://github.com/heidarsadhana)      |
-| 2109106049          | [Felix Christopher Afrian](https://github.com/KustyBoo)      |
+| NIM                 | NAMA                  | KELAS                 |
+|---------------------|-----------------------| -----------------------|
+| 2109106034          | [Muhammad Naufal Ihsan Maulidin](https://github.com/nafxyy)      | Informatika A 2021   |
+| 2109106035          | [Ardi Setyiawan](https://github.com/ArdiSetiw)      | Informatika A 2021   |
+| 2109106046          | [Mohammad Heidar Sadhana](https://github.com/heidarsadhana)      | Informatika A 2021   |
+| 2109106049          | [Felix Christopher Afrian](https://github.com/KustyBoo)      | Informatika A 2021   |
 
 
 
@@ -35,7 +35,7 @@ Adapun untuk fungsi program yang dapat dijalankan oleh tiap - tiap role akun ada
 
 #### - Modul Tambahan yang Diterapkan: -
 - CSS
-- Insert Images
+- Insert Images to DB (:question:)
 
 ### TERIMA KASIH YANG UDAH LUANGKAN WAKTU UNTUK BACA SAMPAI SINI :man_student: :handshake: :woman_student:
 > Kami kelompok 1 memohon maaf apabila di dalam program yang kami buat ini masih banyak terdapat kekurangan, entah itu kekurangan dalam codingan maupun tampilan yang ada pada program. Karena kami menyadari bahwa tidak ada manusia yang sempurna :pray:
