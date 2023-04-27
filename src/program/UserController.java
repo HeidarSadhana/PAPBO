@@ -402,6 +402,10 @@ public class UserController implements UserSetterInterface {
 
             prepare.execute();
 
+            alert = new Alert(Alert.AlertType.WARNING);
+            alert.setTitle("Berhasil di Tambah!");
+            alert.setContentText("Produk Berhasil Ditambah ke Keranjang");
+            alert.showAndWait();
         }else{
             alert = new Alert(Alert.AlertType.WARNING);
             alert.setTitle("Sudah Ada Di Keranjang");
