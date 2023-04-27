@@ -383,7 +383,7 @@ public class AdminController implements AdminSetterInterface {
         } catch(Exception e) {
             Alert alert = new Alert(AlertType.ERROR);
             alert.setTitle("Input Error");
-            alert.setContentText("Add Data Produk Gagal (Input Tidak Sesuai)");
+            alert.setContentText("Add Data Produk Gagal (Ada Error Coy)");
             alert.showAndWait();
         }
 
@@ -475,7 +475,7 @@ public class AdminController implements AdminSetterInterface {
                     yes,
                     no);
 
-            alert.setTitle("Date format warning");
+            alert.setTitle("Menghapus data");
             Optional<ButtonType> result = alert.showAndWait();
 
             if (result.orElse(no) == yes) {
@@ -661,7 +661,7 @@ public class AdminController implements AdminSetterInterface {
         } catch (Exception e) {
             Alert alert = new Alert(AlertType.ERROR);
             alert.setTitle("Input Error");
-            alert.setContentText("Edit Data Produk Gagal (Input Tidak Sesuai)");
+            alert.setContentText("Edit Data Produk Gagal (Ada Error Coy)");
             alert.showAndWait();
         }
     }
